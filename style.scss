@@ -76,7 +76,18 @@ a {
     color: $blue;
   }
 }
-
+.ac {
+	position: relative;
+    top: -1em;
+    display:inline-block; 
+    width: 10px;
+    overflow:visible; 
+    color:#00F;
+    font-weight:bold;
+    font-family: Arial;
+    text-decoration: none;
+    margin-left: 2px;
+}
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
