@@ -51,3 +51,12 @@ Am
 Под плеть.
 
 Припев 2 раза
+[A]
+
+[D]Give a little bit[A][] [D]
+
+  Give a little bit[G] of your[A] love to me[G][][A]
+
+[D]: http://guitar.about.com/library/blchord_dmajor.htm  "D major"
+[G]: http://guitar.about.com/library/blchord_gmajor.htm  "G major"
+[A]: http://guitar.about.com/library/blchord_amajor.htm  "A major"
