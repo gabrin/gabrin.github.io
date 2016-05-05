@@ -74,6 +74,16 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
+    position: relative;
+    top: -1em;
+    display:inline-block; 
+    width: 10px;
+    overflow:visible; 
+    color:#00F;
+    font-weight:bold;
+    font-family: Arial;
+    text-decoration: none;
+    margin-left: 2px;
   }
 }
 .ac {
